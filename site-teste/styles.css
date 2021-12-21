@@ -5,8 +5,8 @@ form{
     display:flex;
     flex-direction: column;
     width: 35vw;
-    height: 90vh;
-    background: gray;
+    height: 100vh;
+    background: rgb(228, 227, 227);
 }
 body{
     background-color: rgb(125, 196, 190);
@@ -21,4 +21,7 @@ button{
     margin-top: 40px;
     background-color: rgb(29, 176, 221);
     color: white;
+}
+h1{
+    color: rgb(29, 176, 221);
 }
